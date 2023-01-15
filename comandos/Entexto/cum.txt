@@ -1,9 +1,0 @@
-
-cum mas nuevo:
-  $(eval u='$(user)';q='$(query)';rl=['$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))'];$(urlfetch json https://quantumprofile2.000webhostapp.com/filtro2.js)) PekoNut 
-
-cum nuevo:
-  u='$(user)';t='$(touser)';Dos='$(2)';rl=['$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))'];$(urlfetch json https://quantumprofile2.000webhostapp.com/filtro.js)
-
-cum antiguo:
-  $(eval u='$(user)';t='$(touser)';Dos='$(2)';u=Dos=='null'?u:t;t=Dos=='null'||Dos=='random'?t:Dos;r='$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))';r=r!='merceditas09 '?r:'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))';t=u!=t&&Dos!='random'?t:r;u+' ha cumeado en '+t) 
