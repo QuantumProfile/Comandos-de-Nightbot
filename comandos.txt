@@ -1,0 +1,167 @@
+//como estas
+
+$(eval let response=" ";if("$(touser)"=="estas"||"$(touser)"=="estás"){
+    const responses=['bien','mal'];response=responses[Math.floor(Math.random() * responses.length)];
+}response)
+
+//cum
+
+$(eval let U="$(user)";let t="$(touser)";let u=U.toLowerCase();if("$(2)"!="null"){U="$(touser)";t="$(2)";if(t.startsWith("@")){t=t.substring(1,t.length);}}else if(U==t){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";}}}U+" ha cumeado en "+t+" uwu";)
+
+$(eval let U="$(user)";let t="$(touser)";let u=U.toLowerCase();if("$(2)"!="null"){U="$(touser)";t="$(2)";if(t.startsWith("@")){t=t.substring(1,t.length);}}else if(U==t){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";}}}U+""+t+"";)
+
+$(eval p1="$(user)";p2="$(touser)";Dos="$(2)";
+if(p1==p2){
+let u=p1.toLowerCase();t=p2;
+t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();
+if(t==u){p2="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();}}p2=t;
+}$(urlfetch json https://byquantumprofile.000webhostapp.com/comando1.js);""+p1+""+p2+"")
+
+//beso
+
+$(eval let U="$(user)";let t="$(touser)";let u=U.toLowerCase();if("$(2)"!="null"){U="$(touser)";t="$(2)";if(t.startsWith("@")){t=t.substring(1,t.length);}}else if(U==t){while(t.toLowerCase()==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim()}else break;}}U+" le ha dado un besito a "+t+" catKISS";)
+
+//amor
+
+$(eval let U="$(user)";let t="$(touser)";let u=U.toLowerCase();if("$(2)"!="null"){U="$(touser)";t="$(2)";if(t.startsWith("@")){t=t.substring(1,t.length);}}else if(U==t){while(t.toLowerCase()==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim()}else break;}}t+" mostró el poto Kreygasm")
+
+//poto 
+
+$(eval let U="$(user)";let t="$(touser)";let u=U.toLowerCase();if(U==t){while(t.toLowerCase()==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim()}else break;}}U+" y "+t+" tienen $(eval Math.floor((Math.random() * 101) + 0))% de posibilidades de amor awww :3";)
+
+//patada
+
+$(eval let pateador="$(user)";let pateado="$(touser)";if("$(user)"=="$(touser)"){while(pateado.toLowerCase()=="$(user)".toLowerCase()){pateado="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))"}}"PUM! 💥👊🦶💥 "+pateador+" ha pateado a "+pateado+" con el "+"$(eval Math.floor((Math.random() * 101) + 0))% de su fuerza 💪";)
+
+//ppt
+
+$(urlfetch https://vxrl.xyz/smm/$(eval "$(user) Me has retado a un duelo a muerte de piedra papel y tijera...")/$(eval u="$(touser)";const pos=['piedra','papel','tijera'];const r=Math.floor(Math.random()*3);let res="Escogo "+pos[r];let g=". Haz ganado !!, GG catsenPout";let p=". Jaja L ez catsenPoint";let e=". Empate wtf";if(u==pos[r]){e;}else if(u==pos[0]){if(r==1){res+p}else{res+g}}else if(u==pos[1]){if(r==2){res+p}else{res+g}}else{if(r==0){res+p}else{res+g}})?i=5000&d=1)
+
+$(urlfetch https://vxrl.xyz/smm/$(eval "$(user) Me has retado a un duelo a muerte de piedra papel y tijera...")/$(eval u="$(touser)";$(urlfetch json https://byquantumprofile.000webhostapp.com/comando3.js))?i=5000&d=1)
+
+$(urlfetch https://vxrl.xyz/smm/1/2/3?i=5000&d=1)
+$(eval m="";if("$(query)"==""){m="escribe algo conterCiego"}else{query="$(query)".split(" / ");if(query.length>4){m="namas escribo 4 cosos conterCiego";}else{m=query[0];}}$(urlfetch https://vxrl.xyz/smm/m/$(eval q="$(query)".split(" / ");m="";if(q[1]==undefined){m=" ";}else{m=q[1];}m+query[1])/$(eval q="$(query)".split(" / ");m="";if(q[2]==undefined){m=" ";}else{m=q[2];}m)/$(eval q="$(query)".split(" / ");m="";if(q[3]==undefined){m=" ";}else{m=q[3];}m)?i=5000&d=1))
+
+//emotes
+$(eval const emote="";args=["$(touser)","$(2)","$(3)","$(4)","$(5)","$(6)","$(7)","$(8)","$(9)","$(10)","$(11)","$(12)","$(13)","$(14)","$(15)","$(16)","$(17)","$(18)","$(19)","$(20)","$(21)","$(22)","$(23)","$(24)","$(25)","$(26)","$(27)","$(28)","$(29)","$(30)","$(31)","$(32)","$(33)","$(34)","$(35)","$(36)","$(37)","$(38)","$(39)","$(40)","$(41)","$(42)"];mensaje=emote;for(let i=0;i<args.length;i++){if(args[i]!=emote){break;}mensaje=mensaje+" "+emote;}mensaje)
+
+$(eval const emote="";args=["$(touser)","$(2)","$(3)","$(4)","$(5)","$(6)","$(7)","$(8)","$(9)"];mensaje=emote;for(let i=0;i<args.length;i++){if(args[i]!=emote){break;}mensaje=mensaje+" "+emote;}mensaje)
+
+$(eval const emote="";args="$(query)".split(" ");mensaje=emote;for(let i=0;i<args.length;i++){if(args[i]!=emote){break;}mensaje=mensaje+" "+emote;}if(mensaje.length>400){mensaje="mucho emote conterCiego";}mensaje)
+
+//finales
+$(eval persona1="$(user)";persona2="$(touser)";Dos="$(2)";
+if(persona1==persona2){
+    list=[
+    "$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))",
+    "$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))",
+    "$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))"]
+}
+;$(urlfetch json https://byquantumprofile.000webhostapp.com/comando1.js);""+persona1+""+persona2+"")
+
+$(eval m="";if("$(query)"==""){m="escribe algo conterCiego"}else if("$(1)".toLowerCase()=="$(user)".toLowerCase()||("$(1)".startsWith("@")&&"$(1)".substring(1,"$(1)".length).toLowerCase()=="$(user)".toLowerCase())){m="por qué escribes tu nombre xd conterFail"}else if("$(query)".length>400){m="mucho texto bro conterCiego"}else{m="$(query)"}m)
+
+$(eval persona1="$(user)";persona2="$(touser)";Dos="$(2)";
+function r(){
+let l=[
+"$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))",
+"$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))",
+"$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))"];return l;
+}$(urlfetch json https://byquantumprofile.000webhostapp.com/comando1.js);""+persona1+""+persona2+"")
+
+!editcom !a $(eval if("$(1)"=="null"){"escribe algo conterCiego"}else {texto="";check=["$(1)","$(2)","$(3)","$(4)","$(5)","$(6)","$(7)","$(8)","$(9)"];for(let i=0;i<check.length;i++){if(check[i].toLowerCase().trim()=="$(user)".toLowerCase()){texto="por qué escribes tu nombre xd conterFail";break;}else if(check[i]!="null"){texto=texto+" "+check[i]}}texto})
+
+//no oficial
+
+$(eval if("$(touser)"=="x"&&"$(2)".toLowerCase()=="tomas"){a="la traición :(";b=")";a}else{" "})
+
+$(eval if("$(touser)"=="qp"){"quantum ha llorado $(count) veces por el oswaI x iIeine Sadge"}else{" "})
+
+$(eval 'oswalsset'=='oswalsset')
+
+$(eval if("$(user)"=="ivanayla07"){
+    u="$(user)".toLowerCase();t="$(touser)";
+    if(u==t.toLowerCase()){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();
+    if(u==t){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();
+    if(u==t){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim()}}}
+    n=t+" es un "+Math.floor(Math.random()*101)+"% maricon";
+}else{n=" "}n)
+
+$(eval if("$(user)"=="ivanayla07"){
+persona1="$(user)";persona2="$(touser)";Dos="$(2)";function r(){
+let l=[
+"$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))",
+"$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))",
+"$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))"];return l;
+}$(urlfetch json https://byquantumprofile.000webhostapp.com/comando1.js);m=persona2+" es un "+random+"% maricon";
+}else{m=" "}m)
+
+$(eval if('$(user)'=='ivanayla07'){U='$(user)';u=U.toLowerCase();t='$(touser)';t=t!=U?t:'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))'.trim();t=t!=u?t:'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))';t=t!=u?t:'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))';t=t!=u?t:U;t+' es un '+Math.floor(Math.random()*101)+'% maricon'}else 'No eres NayIa, no tienes permitido usar este comando conterJuguito')
+
+//testssss
+
+!addcom !azotar $(eval t='$(touser)'!='$(user)'?'$(touser)':'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))'; '$(user) a azotado a '+t) Sigue minando maldito 
+SMOrc
+$(eval t='$(touser)'!='$(user)'?'$(touser)':'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))'; '$(user) .....mensaje.... '+t) ?
+
+$(eval t='$(touser)'!='$(user)'?'$(touser)':'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))';'$(user) .....mensaje.... '+t) ?
+
+$(urlfetch https://vxrl.xyz/smm/$(eval )/$(eval )?i=5000&d=1)
+
+$(eval let U="$(user)";let t="$(touser)";let u=U.toLowerCase();r=Math.floor(Math.random()*101);if("$(2)"!="null"){U="$(touser)";t="$(2)";t=!t.startsWith('@')?t:t.substring(1,t.length)}else {t=t!=U?t:'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))'.trim();t=t!=u?t:'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))';};if((U=="oswal"&&t=="karen")||(U=="karen"&&t=="oswal"))r=100;U+' y '+t+' tienen un '+r+'% de posibilidades de amor aww :3')
+
+
+
+$(eval U='$(user)';u=U.toLowerCase();t='$(touser)';t=t!=U?t:'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))'.trim();t=t!=u?t:'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))';t=t!=u?t:'$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))';t=t!=u?t:U;'$(user)' ...mensaje... '+t) ?
+
+
+$(eval persona1="$(user)";persona2="$(touser)";Dos="$(2)";function randomviewer(){
+    n="https://2g.be/twitch/randomviewer.php?channel=$(channel)";l="$(urlfetch "+n+")";return l;
+} l=randomviewer();l)
+
+$(eval persona1="$(user)";persona2="$(touser)";Dos="$(2)";function randomviewer(){c="$(channel)"
+    n="$(urlfetch https://2g.be/twitch/randomviewer.php?channel="+c+")";return n;
+} l=randomviewer();l)
+
+while(t.toLowerCase()==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim()}else break;}
+
+!editcom !cumtest $(eval i=0;persona1="$(user)";persona2="$(touser)";Dos="$(2)";function randomviewer(){i++;u="$(user)".toLowerCase();t=u;while(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(u==t){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();}else{i++;break;};}return t;} $(urlfetch json https://byquantumprofile.000webhostapp.com/comando1.js);persona1+" ha cumeado en "+persona2+i+" uwu PridePaint")
+
+!editcom !cumtest $(eval persona1="$(user)";persona2="$(touser)";Dos="$(2)";u=persona2.toLowerCase();function randomviewer(t){
+    while(t.toLowerCase()==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim()}else break;}return t;
+} $(urlfetch json https://byquantumprofile.000webhostapp.com/comando1.js);persona1+" ha cumeado en "+persona2+" uwu PridePaint")
+
+!editcom !cumtest $(eval r="";p="";function randomviewer(t){
+    
+} p=p+randomviewer(r);p=p+randomviewer(r);p=p+randomviewer(r);p)
+
+!editcom !cumtest $(eval a="";b="";function randomviewer(u){
+    let l="$()";let i=0;let r=Math.floor(Math.random()*1)
+} b=randomviewer(b);a=a+b;b=randomviewer(b);a=a+b;b=randomviewer(b);a=a+b;a)
+
+!editcom !cumtest $(eval r="";p="";r="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";p=p+r;r="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";p=p+r;r="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";p=p+r;p)
+
+!editcom !cumtest $(eval persona1="$(user)";persona2="$(touser)";Dos="$(2)";function randomviewer(coso){let r="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();coso=r;return coso;} $(urlfetch json https://byquantumprofile.000webhostapp.com/comando1.js);persona1+" ha cumeado en "+persona2+" uwu PridePaint")
+
+!editcom !cumtest $(eval persona1="$(user)";persona2="$(touser)";function randomviewer(coso){let r="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();coso=r;return coso;} $(urlfetch json https://byquantumprofile.000webhostapp.com/comando2.js);persona1+" ha cumeado en "+persona2+" uwu PridePaint")
+
+$(eval let i="a";let u="$(user)";let t="$(touser)";if(u==t){while(t.toLowerCase()==u.toLowerCase()){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";i=i+" a"}}i+t)
+
+$(eval let u="$(user)".toLowerCase;let t="$(touser)".toLowerCase;if(u==t){while(t==u){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";}}"a"+t+" 1 "+u+" 2 "t" 3 "+t==u)
+
+!editcom !test $(eval let list=[];let test=0;let u="$(user)";let t="$(touser)";if(u==t){for(let i=0;i<10;i++){test++;if(t.toLowerCase()!=u.toLowerCase()){break;};a="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(a==u.toLowerCase()){b="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();t=b;}else {t=a;break;}}L="a"+t+test}L)
+
+!editcom !test $(eval let list=[];let test=0;let u="$(user)";let t="$(touser)";if(u==t){for(let i=0;i<10;i++){test++;if(t.toLowerCase()!=u.toLowerCase()){break;}t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();if(t==u.toLowerCase()){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();}else {break;}}L="a"+t+test}L)
+
+
+!editcom !test $(eval let test="a";let u="$(user)";let t="$(touser)";if(u==t){test="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();L=test;test="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();L=L+test;test="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();L=L+test;test="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();L=L+test;}L)
+
+
+L="a"+t+(u.toLowerCase()==t.toLowerCase())+t.toLowerCase()+u.toLowerCase()
+
+while(t.toLowerCase()==u.toLowerCase()){t="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))".trim();test=test+t;} L=test;
+
+$(eval let a="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";let b="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";let c="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";let d="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";let e="$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))";a.trim()+b.trim()+c.trim()+d.trim()+e.trim())
+
+el followage pro 
+!editcom !followage $(eval let a='';if('$(2)'=='null')a='$(urlfetch https://2g.be/twitch/following.php?user=$(touser)&channel=$(channel)&format=mwdhms)';else a='$(urlfetch https://2g.be/twitch/following.php?user=$(touser)&channel=$(2)&format=mwdhms)')
