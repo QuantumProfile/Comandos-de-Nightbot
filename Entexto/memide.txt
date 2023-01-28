@@ -2,4 +2,4 @@ Esto es un comando que intenta imitar lo que hace el comando de Pablo Avelar
 Enlace al de Pablo Avelar: https://pabloavelar.mx/comandos/scripts/memide.php
 
 El mio:
-!addcom !memide $(eval num=Math.floor(Math.random()*31)+1;if(num==31)'ni siquiera le cabe en el pantalón Kreygasm ';else 'A $(touser) le mide '+num+'cm')
+!addcom !memide $(eval num=Math.floor(Math.random()*31)+1;t='$(touser)';if(num==31)'A '+t+' ni siquiera le cabe en el pantalón Kreygasm ';else 'A '+t+' le mide '+num+'cm')
