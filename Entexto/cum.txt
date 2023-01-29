@@ -1,3 +1,5 @@
+cum de php (btw es mas nuevo q el de abajo, y creo q así lo voy a hacer, el más nuevo es el de arriba y al bajas hay cada vez mas viejos):
+$(urlfetch https://quantumprofile2.000webhostapp.com/test1.php?u=$(user)&c=$(channel)&q=$(query))
 
 cum mas nuevo:
   $(eval u='$(user)';q='$(query)';rl=['$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))','$(urlfetch https://2g.be/twitch/randomviewer.php?channel=$(channel))'];$(urlfetch json https://quantumprofile2.000webhostapp.com/filtro2.js)) PekoNut 
