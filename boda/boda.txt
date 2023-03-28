@@ -1,1 +1,1 @@
-
+$(urlfetch https://quantumprofile2.000webhostapp.com/boda.php?u=$(user)&c=$(channel)&q=$(query))
