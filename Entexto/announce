@@ -1,0 +1,1 @@
+!addcom !anuncia $(eval q='$(query)';ql=q.split(' ');t='';if(ql[0]=='verde')t='green';if(ql[0]=='azul')t='blue';if(ql[0]=='naranja')t='orange';if(ql[0]=='morado')t='purple';c=ql;c.reverse();c.pop();c.reverse();r=t==''?q:c.join('');'/announce'+t+' '+r) 
