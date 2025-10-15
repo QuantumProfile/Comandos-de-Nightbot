@@ -1,0 +1,1 @@
+!memide A $(touser) le mide $(eval r=Math.floor(Math.random()*31);e=r<7?'pL':r<13?'ppL':r<16?'nise':r<21?'dongerj2':'dongerhhh';r+' cm '+e)
